@@ -1,0 +1,143 @@
+.col-centered{
+    float: none;
+    margin: 0 auto !important;
+}
+.form-group{
+    padding-bottom: 20px !important;
+}
+.checkbox{
+    padding-bottom: 20px !important;
+}
+.main-login{
+    background:url(../images/dream-theater-traffic-lights-110795-1657x920.jpg);
+    height: 700px;
+}
+.main-index{
+    background:#245580;
+    height: 660px;
+    background-repeat: no-repeat;
+}
+.login{
+    margin-top: 300px;
+}
+.form-inline{
+    margin-left: 220px;
+}
+.infor-team{
+    margin-left: 360px !important;
+    align-items: center;
+}
+.infor-team p{
+    text-align: center;
+    color: #ffffff;
+}
+.infor-team h3{
+    text-align: center;
+    color: #ffffff;
+    margin-top: 100px !important;
+}
+.main-index h3{
+    margin-top: 50px !important;
+}
+.police img{
+    width: 20%;
+    height: 20%;
+}
+.police {
+    margin-top: 10px !important;
+}
+.light img{
+    width: 20%;
+    height: 20%;
+    margin-left: 95px;
+    margin-top: 15px;
+}
+.police p{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+}
+.police img{
+    margin-left: 85px;
+    margin-top: 15px;
+}
+.form-control-index{
+    margin-top: 50px;
+}
+.light p{
+    color: #ffffff;
+    text-align: center;
+}
+.den-box{
+	width: 60% !important;
+	margin-left: 60px;
+	}
+
+.box-huongdan ,.box-phat{
+	height: 120px;
+	background-color: #fff;
+	}
+.notyfile p{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+}
+.light-color{
+    margin-top: 40px;
+}
+.notyfile{
+    color: #ffffff;
+    text-align: center;
+}
+.notyfile img {
+    width: 50%;
+    height: 50%;
+    margin-top: 15px;
+}
+.form-control-bien{
+    margin-top: 30px;
+}
+.bienbao img{
+    margin-top: 25px;
+}
+.police{
+    border: 1px solid #ffffff;
+}
+.notyfile{
+    border: 1px solid #ffffff;
+}
+.light{
+     border: 1px solid #ffffff;
+ }
+.bthuongdan{
+    margin: 0 auto !important;
+}
+.btn-success{
+    margin-left: 40px;
+}
+.moto{
+    padding-top: 100px;
+}
+.phat{
+    margin-top: 20px;
+}
+.huongdan h3{
+    margin: 0 !important;
+    margin-bottom: 12px !important;
+}
+.phat h3{
+    margin-bottom: 12px !important;
+}
+.bienbao-box{
+    margin-top: 20px;
+    color: #000 !important;
+}
+.slbienbao{
+	margin-top: 40px;
+	height: 34px;
+	
+	width: 100%;
+	}
+.light-color{
+    margin-top: 50px;
+}
